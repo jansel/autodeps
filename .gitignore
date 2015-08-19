@@ -1,0 +1,17 @@
+*.pyc
+*.swo
+*.swn
+*.swm
+*.swp
+*.rdf
+*.phutil_module_cache
+._*
+*~
+.DS_Store
+._.DS_Store
+.nfs*
+.venv
+.idea
+.venv_latest
+venv
+venv_archive

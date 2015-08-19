@@ -1,0 +1,9 @@
+{
+  "submodule-update": "",
+  "requirements": ["{autodeps_dir}/requirements.txt"],
+  "virtualenv": "{autodeps_dir}/venv-bootstrap.py",
+  "venv-dir-required-gigabytes": 1.0,
+  "venv-dir-search": ["{autodeps_dir}/venv/{deps_hash}"],
+  "archived-venv-dir": "{autodeps_dir}/venv_archive",
+  "venv-latest": "{autodeps_dir}/.venv_latest"
+}
